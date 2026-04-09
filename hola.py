@@ -1,3 +1,6 @@
-print("Hola, soy Maleja-Kuma 😌🔥")
-print("Ya conecté VS Code con GitHub 🚀")
-print("Y ya sé usar Git como una pro 😎🚀")
+nombre = input("Hola, Como te llamas?")
+print("Mucho gusto,", nombre)
+print("Bienvenida al mundo de la programacion")
+edad = input("¿Cuántos años tienes? 😏 ")
+
+print("Wow", nombre, "con", edad, "años estás rompiéndola 🔥")
